@@ -1,6 +1,8 @@
 # Prediction-of-Breast-Cancer-wisconsin-data
 # Introduction
-The dataset was gotten forom Kaggle for a project to sharpen our Python, Machine learning skills using googlecolab. The datasets gives a breakdown of breast cancer reports and categories 'B' Benign cancer, 'M' Malignant cancer with a 569 rows and 33 columns, the datasets consist of both numerical and categorical data.
+This a prediction of the type of cancer either benign or malignant a lady can develop based on different variables.
+
+The dataset was gotten from Kaggle for a project to sharpen our Python, Machine learning skills using googlecolab. The datasets gives a breakdown of breast cancer reports and categories 'B' Benign cancer, 'M' Malignant cancer with a 569 rows and 33 columns, the datasets consist of both numerical and categorical data.
 
 # Data Analysis
 we imported our libraries and models for analysis, we romoved null values and fixed missing values and errors then we performed 
